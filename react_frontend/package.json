@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Authentication Frontend",
   "main": "src/index.js",
-"repository": "https://github.com/NAZBEG/Django-React-WebApp",
+"repository": "https://github.com/NAZZBEG/Django-React-WebApp",
   
   "scripts": {
     "clean": "rimraf ./dist",
@@ -13,7 +13,8 @@
     "test": "npm run lint && mocha --require babel-register ./tests/setup.js --recursive ./tests/**/*.spec.js",
     "test:watch": "npm run test -- --watch"
   },
-  
+  "author": "Nazmeen",
+  "license": "",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.1",
