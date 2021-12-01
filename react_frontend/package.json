@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Authentication Frontend",
   "main": "src/index.js",
-"repository": "https://github.com/NZBG/Django-React-WebApp",
+"repository": "https://github.com/NAZBEG/Django-React-WebApp",
   
   "scripts": {
     "clean": "rimraf ./dist",
