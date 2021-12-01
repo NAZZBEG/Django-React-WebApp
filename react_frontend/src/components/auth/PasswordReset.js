@@ -21,7 +21,7 @@ class PasswordReset extends Component {
                     className="col col-sm-4 card mt-5 p-2"
                     onSubmit={handleSubmit}
                 >
-                    <h4 className="text-md-center">Reset Your Password</h4>
+                    <h4 className="text-md-center">Please Reset Your Password</h4>
                     <hr/>
 
                     <fieldset className="form-group">

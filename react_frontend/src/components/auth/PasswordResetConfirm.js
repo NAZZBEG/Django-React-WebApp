@@ -49,7 +49,7 @@ const validateForm = values => {
     const errors = {};
     const { new_password1, new_password2 } = values;
     if (new_password1 !== new_password2) {
-        errors.new_password2 = "Password does not match."
+        errors.new_password2 = "This Password does not match."
     }
     return errors;
 };

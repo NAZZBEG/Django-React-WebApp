@@ -51,7 +51,6 @@ class PasswordChange extends Component {
     }
 }
 
-// Sync field level validation for password match
 const validateForm = values => {
     const errors = {};
     const { new_password1, new_password2 } = values;

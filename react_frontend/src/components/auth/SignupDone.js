@@ -4,8 +4,7 @@ export default class SignupDone extends Component {
     render() {
         return (
             <h3 className="mx-5">
-                Thanks for your registration, please follow the link sent to your provided email to activate
-                your account.
+                Thank you for registration, Please follow the instructions sent to to your email to activate your account.
             </h3>
         )
     }

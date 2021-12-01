@@ -58,7 +58,6 @@ class Signup extends Component {
     }
 }
 
-// Sync field level validation for password match
 const validateForm = values => {
     const errors = {};
     const { password1, password2 } = values;

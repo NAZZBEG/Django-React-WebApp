@@ -18,7 +18,7 @@ class AccountActivation extends Component {
                     className="col col-sm-4 card mt-5 p-2"
                     onSubmit={handleSubmit}
                 >
-                    <h4 className="text-md-center">Please click the button below to activate your account</h4>
+                    <h4 className="text-md-center">Please activate your account by clicking the submit button below</h4>
                     <hr/>
 
                     <fieldset className="form-group">

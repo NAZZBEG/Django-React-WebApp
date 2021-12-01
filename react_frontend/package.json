@@ -1,19 +1,19 @@
 {
-  "name": "react-authentication-frontend",
+  "name": "React-Authentication-Frontend",
   "version": "1.0.0",
   "description": "React Authentication Frontend",
   "main": "src/index.js",
-  "repository": "https://github.com/ZachLiuGIS/reactjs-auth-django-rest",
+"repository": "https://github.com/NZBG/Django-React-WebApp",
+  
   "scripts": {
     "clean": "rimraf ./dist",
     "lint": "eslint ./src ./tests",
     "build": "npm run clean && npm run test && webpack --progress --profile --colors",
-    "start": "webpack-dev-server --port 8083",
+    "start": "webpack-dev-server --port 8085",
     "test": "npm run lint && mocha --require babel-register ./tests/setup.js --recursive ./tests/**/*.spec.js",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "Zach Liu",
-  "license": "MIT",
+  
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.1",
