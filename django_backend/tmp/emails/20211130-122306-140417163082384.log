@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your E-mail Address
+From: admin@admin.com
+To: abc@gmail.com
+Date: Tue, 30 Nov 2021 12:23:06 -0000
+Message-ID: <20211130122306.26087.45998@192-168-1-102.tpgi.com.au>
+
+Hello from example.com!
+
+You're receiving this e-mail because user abcd has given yours as an e-mail address to connect their account.
+
+To confirm this is correct, go to example.com/account/confirm-email/MQ:1ms2A6:xVPPD1pgRnwk8ulNPPbaI3tzVCs/
+
+Thank you from example.com!
+example.com
+-------------------------------------------------------------------------------
